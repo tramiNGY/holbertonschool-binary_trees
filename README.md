@@ -96,7 +96,6 @@ typedef struct binary_tree_s binary_tree_t;
 - Betty style: Holbertonschool code layout rules
 - Not allowed to use global variables
 - No more than 5 functions per File
-- Main.c is not present in repo but in the README
 
 ## Compilation
 The command used to compile in GNU under Ubuntu 20.04 LTS is:
